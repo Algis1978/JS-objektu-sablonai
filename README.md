@@ -2,7 +2,7 @@
 
 # Apie
 
-Javascript modulio BIT mokymuose (pradžios data: 2021 m. birželio 21 d.) pavyzdys apie objektų šablonų sudarymą ir obejktų kūrimą pagal juos;<br>
+Javascript modulio BIT mokymuose (pradžios data: 2021 m. birželio 21 d.) pavyzdys apie objektų šablonų sudarymą ir objektų kūrimą pagal juos;<br>
 Publikuota: [JS-objektu-sablonai]( https://algis1978.github.io/JS-objektu-sablonai/
 
 # Mokymų detalės:
